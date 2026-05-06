@@ -5,6 +5,4 @@ dist
 .vite
 
 # Large media files
-src/assets/video/*.gif
-src/assets/video/*.mp4
-src/assets/video/*.webm
+
