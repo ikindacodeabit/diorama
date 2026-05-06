@@ -1,5 +1,9 @@
 # Diorama
 
+The vercel app - 
+
+https://diorama-five.vercel.app/
+
 A single-page React + Vite player for *The Mongoose and the Farmer's Wife* (Panchatantra), presented as a CSS-3D layered diorama. Each scene stacks five depth layers inside a `perspective` container; mouse movement parallaxes the layers; per-scene music cross-fades; characters reveal a textbox tooltip on hover.
 
 ## Stack
